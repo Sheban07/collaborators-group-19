@@ -24,7 +24,8 @@ We believe in **"Building together, growing together."**
 
 ## ✨ Meet the Team
 
-Here are the members of the group. **Collaborators-group-19**:
+Here are the group members.
+**Collaborators-group-19**:
 
 1. **Sheban Kaingu**  
    Repository: [GitHub Profile](https://sheban07.github.io/MyPortfolioWebsite/)
@@ -63,7 +64,7 @@ Feel free to explore our individual repositories to learn more about our contrib
 ## 📌 Repository Objectives
 
 In this repository, we plan to:  
-- Share collaborative coding projects.  
+- Share collaborative coding.  
 - Learn and implement GitHub best practices.  
 - Build a culture of consistent and constructive communication.
 
