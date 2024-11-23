@@ -34,7 +34,7 @@ Here are the group members.
 2. **Elizabeth Julius**  
    Repository: [GitHub Profile](https://muthonijulie.github.io/PLP_portfolio/)
 
-3. **Add your name here**  
+3. **Nyarangi Joyllette**  
    Repository: [GitHub Profile](your personal repository link)
 
 4. **Add your name here**  
