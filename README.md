@@ -27,7 +27,7 @@ We believe in **"Building together, growing together."**
 Here are the members of the group. **Collaborators-group-19**:
 
 1. **Sheban Kaingu**  
-   Repository: [GitHub Profile](#)  
+   Repository: [GitHub Profile](https://sheban07.github.io/MyPortfolioWebsite/)
 
 2. **Add your name here**  
    Repository: [GitHub Profile](your personal repository link)  
