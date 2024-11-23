@@ -13,9 +13,10 @@ Each team member brings unique skills and perspectives to this collaboration, fo
 
 ## 🤝 Why We Collaborated
 
-The tech world thrives on collaboration, and this repository is a reflection of our commitment to learning from one another and improving our skills. Through teamwork, we aim to:  
-- Share knowledge and best practices.  
-- Develop impactful portfolio that show case our skills.  
+The tech world thrives on collaboration, and this repository is a reflection of our commitment to learning from one another and improving our skills. Through teamwork, we aim to:
+
+- Share knowledge and best practices.
+- Develop impactful portfolio that show case our skills.
 - Support and challenge each other to grow professionally.
 
 We believe in **"Building together, growing together."**
@@ -30,8 +31,8 @@ Here are the group members.
 1. **Sheban Kaingu**  
    Repository: [GitHub Profile](https://sheban07.github.io/MyPortfolioWebsite/)
 
-2. **Add your name here**  
-   Repository: [GitHub Profile](your personal repository link)  
+2. **Elizabeth Julius**  
+   Repository: [GitHub Profile](https://muthonijulie.github.io/PLP_portfolio/)
 
 3. **Add your name here**  
    Repository: [GitHub Profile](your personal repository link)
@@ -55,7 +56,7 @@ Here are the group members.
    Repository: [GitHub Profile](your personal repository link)
 
 10. **Add your name here**  
-   Repository: [GitHub Profile](your personal repository link)
+    Repository: [GitHub Profile](your personal repository link)
 
 Feel free to explore our individual repositories to learn more about our contributions and personal projects.
 
@@ -63,9 +64,10 @@ Feel free to explore our individual repositories to learn more about our contrib
 
 ## 📌 Repository Objectives
 
-In this repository, we plan to:  
-- Share collaborative coding.  
-- Learn and implement GitHub best practices.  
+In this repository, we plan to:
+
+- Share collaborative coding.
+- Learn and implement GitHub best practices.
 - Build a culture of consistent and constructive communication.
 
 ---
@@ -78,6 +80,4 @@ For inquiries, feedback, or collaboration opportunities, feel free to reach out 
 
 Thank you for visiting **Collaborators-group-19**! We look forward to sharing exciting projects and ideas with the GitHub community.
 
-
-
-*The repository is shared among S-Hook group 19 developers who each contribute to specific features, bugs fixes, and enhancements.*
+_The repository is shared among S-Hook group 19 developers who each contribute to specific features, bugs fixes, and enhancements._
