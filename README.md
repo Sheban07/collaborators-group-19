@@ -35,7 +35,7 @@ Here are the group members.
    Repository: [GitHub Profile](https://muthonijulie.github.io/PLP_portfolio/)
 
 3. **Nyarangi Joyllette**  
-   Repository: [GitHub Profile](https://j-nyarangi.github.io/Portfolio)
+   Repository: [GitHub Profile](https://j-nyarangi.github.io/)
 
 4. **Add your name here**  
    Repository: [GitHub Profile](your personal repository link)
