@@ -37,7 +37,7 @@ Here are the group members.
 3. **Nyarangi Joyllette**  
    Repository: [GitHub Profile](https://j-nyarangi.github.io/)
 
-4. **Add your name here**  
+4. **David Kai**  
    Repository: [GitHub Profile](your personal repository link)
 
 5. **Add your name here**  
