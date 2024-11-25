@@ -46,17 +46,18 @@ Here are the group members.
 
 7. **David Mutia**  
    Repository: [GitHub Profile](https://github.com/Dave-star7/DaveDev-Group19)
+   Live Demo:https://dave-star7.github.io/DaveDev-Group19
 
-8. **Esther Kiboi** 
+9. **Esther Kiboi** 
    Repository: [GitHub Profile](https://github.com/kiboiesther/portfolio.git)
 
-9. **Margaret Muchai**  
-   Repository: [GitHub Profile](your personal repository link)
-
-10. **Add your name here**  
+10. **Margaret Muchai**  
    Repository: [GitHub Profile](your personal repository link)
 
 11. **Add your name here**  
+   Repository: [GitHub Profile](your personal repository link)
+
+12. **Add your name here**  
     Repository: [GitHub Profile](your personal repository link)
 
 Feel free to explore our individual repositories to learn more about our contributions and personal projects.
