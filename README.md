@@ -44,7 +44,7 @@ Here are the group members.
    Repository: [GitHub Profile](your personal repository link)
 
 6. **David Mutia**  
-   Repository: [GitHub Profile](your personal repository link)
+   Repository: [GitHub Profile](https://github.com/Dave-star7/DaveDev-Group19)
 
 7. **Esther Kiboi** 
    Repository: [GitHub Profile](https://github.com/kiboiesther/portfolio.git)
