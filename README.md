@@ -35,8 +35,8 @@ Here are the group members.
    Repository: [GitHub Profile](https://muthonijulie.github.io/PLP_portfolio/)
 
 3. **Nyarangi Joyllette**  
-   Portfolio Website: [GitHub Profile](https://j-nyarangi.github.io/JoyllettePortfolio-Group19/)  
-   Repository Link: [GitHub Profile](https://github.com/J-Nyarangi/JoyllettePortfolio-Group19.git)
+   Portfolio Website: [Live Demo](https://j-nyarangi.github.io/JoyllettePortfolio-Group19/)  
+   Repository Link: [Github](https://github.com/J-Nyarangi/JoyllettePortfolio-Group19.git)
 
 5. **David Kai**  
    Repository: [GitHub Profile](https://github.com/kaidavi/S-Hook-Hackathon-1-Portfolio-Challenge-David-Kai-PLP_Group-19)
