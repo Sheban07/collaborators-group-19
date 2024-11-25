@@ -46,8 +46,8 @@ Here are the group members.
 6. **David Mutia**  
    Repository: [GitHub Profile](your personal repository link)
 
-7. **Add your name here**  
-   Repository: [GitHub Profile](your personal repository link)
+7. **Esther Kiboi** 
+   Repository: [GitHub Profile](https://github.com/kiboiesther/portfolio.git)
 
 8. **Add your name here**  
    Repository: [GitHub Profile](your personal repository link)
