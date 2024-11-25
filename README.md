@@ -40,7 +40,7 @@ Here are the group members.
 4. **David Kai**  
    Repository: [GitHub Profile](your personal repository link)
 
-5. **Add your name here**  
+5. **Caleb Kiprono**  
    Repository: [GitHub Profile](your personal repository link)
 
 6. **Add your name here**  
