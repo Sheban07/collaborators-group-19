@@ -43,7 +43,7 @@ Here are the group members.
 5. **Caleb Kiprono**  
    Repository: [GitHub Profile](your personal repository link)
 
-6. **Add your name here**  
+6. **David Mutia**  
    Repository: [GitHub Profile](your personal repository link)
 
 7. **Add your name here**  
