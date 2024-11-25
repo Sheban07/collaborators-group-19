@@ -32,30 +32,32 @@ Here are the group members.
    Repository: [GitHub Profile](https://sheban07.github.io/my-personal-portfolio_group-19/)
 
 2. **Elizabeth Julius**  
-   Repository: [GitHub Profile](https://muthonijulie.github.io/PLP_portfolio/)
+   Repository:[Live Demo](https://muthonijulie.github.io/PLP_portfolio.Group19/)
+   [GitHub ](https://github.com/muthonijulie/PLP_portfolio.Group19.git)
 
 3. **Nyarangi Joyllette**  
    Portfolio Website: [Live Demo](https://j-nyarangi.github.io/JoyllettePortfolio-Group19/)  
    Repository Link: [Github](https://github.com/J-Nyarangi/JoyllettePortfolio-Group19.git)
 
-5. **David Kai**  
+4. **David Kai**  
    Repository: [GitHub Profile](https://github.com/kaidavi/S-Hook-Hackathon-1-Portfolio-Challenge-David-Kai-PLP_Group-19)
 
-6. **Caleb Kiprono**  
+5. **Caleb Kiprono**  
    Repository: [GitHub Profile](your personal repository link)
 
-7. **David Mutia**
+6. **David Mutia**
+
 - **Portfolio Website:** [Live Demo](https://dave-star7.github.io/DaveDev-Group19)
 - **Repository:** [GitHub Profile](https://github.com/Dave-star7/DaveDev-Group19)
 
-9. **Esther Kiboi** 
+9. **Esther Kiboi**
    Repository: [GitHub Profile](https://github.com/kiboiesther/portfolio.git)
 
 10. **Margaret Muchai**  
-   Repository: [GitHub Profile](your personal repository link)
+    Repository: [GitHub Profile](your personal repository link)
 
 11. **Add your name here**  
-   Repository: [GitHub Profile](your personal repository link)
+    Repository: [GitHub Profile](your personal repository link)
 
 12. **Add your name here**  
     Repository: [GitHub Profile](your personal repository link)
