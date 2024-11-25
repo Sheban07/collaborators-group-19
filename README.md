@@ -32,8 +32,8 @@ Here are the group members.
    Repository: [GitHub Profile](https://sheban07.github.io/my-personal-portfolio_group-19/)
 
 2. **Elizabeth Julius**  
-   Repository:[Live Demo](https://muthonijulie.github.io/PLP_portfolio.Group19/)
-   [GitHub ](https://github.com/muthonijulie/PLP_portfolio.Group19.git)
+   Portfolio website:[Live Demo](https://muthonijulie.github.io/PLP_portfolio.Group19/)
+   Repository:[GitHub ](https://github.com/muthonijulie/PLP_portfolio.Group19.git)
 
 3. **Nyarangi Joyllette**  
    Portfolio Website: [Live Demo](https://j-nyarangi.github.io/JoyllettePortfolio-Group19/)  
