@@ -38,7 +38,7 @@ Here are the group members.
    Repository: [GitHub Profile](https://j-nyarangi.github.io/)
 
 4. **David Kai**  
-   Repository: [GitHub Profile](https://github.com/kaidavi/S-Hook-Hackathon-1-Portfolio-Challenge-David-Kai)
+   Repository: [GitHub Profile](https://github.com/kaidavi/S-Hook-Hackathon-1-Portfolio-Challenge-David-Kai-PLP_Group-19)
 
 5. **Caleb Kiprono**  
    Repository: [GitHub Profile](your personal repository link)
