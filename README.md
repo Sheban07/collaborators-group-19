@@ -33,7 +33,6 @@ Here are the group members.
 
 2. **Elizabeth Julius**  
    Portfolio website:[Live Demo](https://muthonijulie.github.io/PLP_portfolio.Group19/)
-
    Repository:[GitHub ](https://github.com/muthonijulie/PLP_portfolio.Group19.git)
 
 3. **Nyarangi Joyllette**  
