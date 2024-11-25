@@ -55,8 +55,8 @@ Here are the group members.
 10. **Margaret Muchai**  
     Repository: [GitHub Profile](your personal repository link)
 
-11. **Add your name here**  
-    Repository: [GitHub Profile](your personal repository link)
+11. **Laurine Maina**  
+    Repository: [GitHub Profile]((https://github.com/laureenmaina/Portfolio-Group19))
 
 12. **Add your name here**  
     Repository: [GitHub Profile](your personal repository link)
