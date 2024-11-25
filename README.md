@@ -35,27 +35,28 @@ Here are the group members.
    Repository: [GitHub Profile](https://muthonijulie.github.io/PLP_portfolio/)
 
 3. **Nyarangi Joyllette**  
-   Repository: [GitHub Profile](https://github.com/J-Nyarangi/JoyllettePortfolio-Group19.git)
+   Portfolio Website: [GitHub Profile](https://j-nyarangi.github.io/JoyllettePortfolio-Group19/)
+   Repository Link: [GitHub Profile](https://github.com/J-Nyarangi/JoyllettePortfolio-Group19.git)
 
-4. **David Kai**  
+5. **David Kai**  
    Repository: [GitHub Profile](https://github.com/kaidavi/S-Hook-Hackathon-1-Portfolio-Challenge-David-Kai-PLP_Group-19)
 
-5. **Caleb Kiprono**  
+6. **Caleb Kiprono**  
    Repository: [GitHub Profile](your personal repository link)
 
-6. **David Mutia**  
+7. **David Mutia**  
    Repository: [GitHub Profile](https://github.com/Dave-star7/DaveDev-Group19)
 
-7. **Esther Kiboi** 
+8. **Esther Kiboi** 
    Repository: [GitHub Profile](https://github.com/kiboiesther/portfolio.git)
 
-8. **Margaret Muchai**  
-   Repository: [GitHub Profile](your personal repository link)
-
-9. **Add your name here**  
+9. **Margaret Muchai**  
    Repository: [GitHub Profile](your personal repository link)
 
 10. **Add your name here**  
+   Repository: [GitHub Profile](your personal repository link)
+
+11. **Add your name here**  
     Repository: [GitHub Profile](your personal repository link)
 
 Feel free to explore our individual repositories to learn more about our contributions and personal projects.
