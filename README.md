@@ -35,7 +35,7 @@ Here are the group members.
    Repository: [GitHub Profile](https://muthonijulie.github.io/PLP_portfolio/)
 
 3. **Nyarangi Joyllette**  
-   Portfolio Website: [GitHub Profile](https://j-nyarangi.github.io/JoyllettePortfolio-Group19/)
+   Portfolio Website: [GitHub Profile](https://j-nyarangi.github.io/JoyllettePortfolio-Group19/)  
    Repository Link: [GitHub Profile](https://github.com/J-Nyarangi/JoyllettePortfolio-Group19.git)
 
 5. **David Kai**  
