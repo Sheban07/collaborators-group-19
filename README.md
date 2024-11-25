@@ -29,7 +29,7 @@ Here are the group members.
 **Collaborators-group-19**:
 
 1. **Sheban Kaingu**  
-   Repository: [GitHub Profile](https://sheban07.github.io/my-personal-portfolio_group-19/)
+   Repository: [GitHub Profile](https://github.com/Sheban07/my-personal-portfolio_group-19.git)
 
 2. **Elizabeth Julius**  
    Repository:[Github profile](https://muthonijulie.github.io/PLP_portfolio.Group19/)
