@@ -49,7 +49,7 @@ Here are the group members.
 7. **Esther Kiboi** 
    Repository: [GitHub Profile](https://github.com/kiboiesther/portfolio.git)
 
-8. **Add your name here**  
+8. **Margaret Muchai**  
    Repository: [GitHub Profile](your personal repository link)
 
 9. **Add your name here**  
