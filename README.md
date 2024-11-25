@@ -47,7 +47,7 @@ Here are the group members.
 7. **David Mutia**  
    Repository: [GitHub Profile](https://github.com/Dave-star7/DaveDev-Group19)
    
-   Live Demo:https://dave-star7.github.io/DaveDev-Group19
+   Live Demo:[Github Profile](https://dave-star7.github.io/DaveDev-Group19)
 
 9. **Esther Kiboi** 
    Repository: [GitHub Profile](https://github.com/kiboiesther/portfolio.git)
